@@ -8,10 +8,6 @@ Capture thoughts, connect ideas, and think visually on an infinite canvas.
 
 👉 **https://riches-xi.vercel.app**
 
----
-
-![Marble Canvas](https://riches-xi.vercel.app/og-image.png)
-
 ## Features
 
 - 📝 Notes, code snippets, links, tasks, images
